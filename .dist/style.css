@@ -1,0 +1,43 @@
+#headertxt {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
+
+.card {
+    width: 20rem;
+    height: 10rem;
+    text-align: center;
+    display: flex;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+}
+
+#foot {
+    justify-content: space-between;
+
+
+
+}
+
+#Remita {
+    width: max-content;
+    margin-left: 150px;
+}
+
+#headernav {
+    margin-left: 20px;
+}
+
+.lead {
+    text-align: center;
+}
+
+#support {
+    text-align: right;
+}
